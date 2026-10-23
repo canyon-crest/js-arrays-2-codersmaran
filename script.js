@@ -25,7 +25,7 @@ let colors = ["red","green","blue"];
 //         "Color: blue"
 //         Use: console.log("Color: " + colors[i])
 for (let i = 0; i < 4; ++i) {
-    alert("Color: " + colors[i]);
+    console.log("Color: " + colors[i]);
 }
 
 // ============================================
